@@ -3,8 +3,6 @@
 
 **Submitted by:** СHINUK (Qubic_RU)
 
-**Duration:** 6-12 Months
-
 **Requested Amount:** 1.4 bln QUBIC per month - $3,900 per month 
 
 **Wallet:** ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
