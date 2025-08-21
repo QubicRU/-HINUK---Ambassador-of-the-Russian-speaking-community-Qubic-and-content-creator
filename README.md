@@ -66,12 +66,12 @@ X, Instagram, TikTok, YouTube, Telegram:
 
 | Month    | Deliverables                                       | Compensation |
 |----------|----------------------------------------------------|-----------------|
-| Month 1  | 4 videos + 10 X,Instagram, TikTok posts.          | 1,4b QUBIC    |
-| Month 2  | 4 videos + 10 X,Instagram, TikTok posts.          | 1,4b QUBIC    |
-| Month 3  | 4 videos + 10 X,Instagram, TikTok posts. 1 music tracks      | 1,4b QUBIC    |
-| Month 4  | 4 videos + 10 X,Instagram, TikTok posts. 1 clip| 1,4b QUBIC    |
-| Month 5  | 4 videos + 10 X,Instagram, TikTok posts.          |  1,4b QUBIC    |
-| Month 6  | 4 videos + 10 X,Instagram, TikTok posts. 1 music tracks | 1,4b QUBIC    |
+| Month 1  | 4 videos + 10 posts X,Instagram, TikTok          | 1,4b QUBIC    |
+| Month 2  | 4 videos + 10 posts X,Instagram, TikTok          | 1,4b QUBIC    |
+| Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 music tracks      | 1,4b QUBIC    |
+| Month 4  | 4 videos + 10 posts X,Instagram, TikTok 1 clip| 1,4b QUBIC    |
+| Month 5  | 4 videos + 10 posts X,Instagram, TikTok          |  1,4b QUBIC    |
+| Month 6  | 4 videos + 10 posts X,Instagram, TikTok  1 music tracks | 1,4b QUBIC    |
 
 ### Total Output (6 Months)
 X, Instagram, TikTok, YouTube, Telegram:
