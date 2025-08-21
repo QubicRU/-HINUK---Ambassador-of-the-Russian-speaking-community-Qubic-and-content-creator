@@ -3,7 +3,7 @@
 
 **Submitted by:** СHINUK (Qubic_RU)
 
-**Requested Amount:** 1.4 bln QUBIC per month - $3,900 per month 
+**Requested Amount:** 1.5 bln QUBIC per month - $3,900 per month 
 
 **Wallet:** ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
@@ -54,7 +54,7 @@ I see that this is yielding good results, and it is time to increase our influen
 
 This proposal describes a three-month initiative to scale up the aNNa project to further increase production volumes, improve product quality, and expand QUBIC's presence on social platforms, including Russian ones. 
 
-I am requesting 1,4 billion Qubic tokens per month to intensively develop the existing blog aNNa.
+I am requesting 1,5 billion Qubic tokens per month to intensively develop the existing blog aNNa.
 This grant allows us to devote all our time to our work, improve product quality, and acquire the distribution tools necessary to reach a wide crypto audience.
 
 ---
@@ -66,12 +66,12 @@ X, Instagram, TikTok, YouTube, Telegram:
 
 | Month    | Deliverables                                       | Compensation |
 |----------|----------------------------------------------------|-----------------|
-| Month 1  | 4 videos + 10 posts X,Instagram, TikTok          | 1,4b QUBIC    |
-| Month 2  | 4 videos + 10 posts X,Instagram, TikTok          | 1,4b QUBIC    |
-| Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 music tracks      | 1,4b QUBIC    |
-| Month 4  | 4 videos + 10 posts X,Instagram, TikTok 1 clip| 1,4b QUBIC    |
-| Month 5  | 4 videos + 10 posts X,Instagram, TikTok          |  1,4b QUBIC    |
-| Month 6  | 4 videos + 10 posts X,Instagram, TikTok  1 music tracks | 1,4b QUBIC    |
+| Month 1  | 4 videos + 10 posts X,Instagram, TikTok          | 1,5b Qubic    |
+| Month 2  | 4 videos + 10 posts X,Instagram, TikTok          | 1,5b Qubic    |
+| Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 music tracks      | 1,5b Qubic    |
+| Month 4  | 4 videos + 10 posts X,Instagram, TikTok 1 clip| 1,5b Qubic    |
+| Month 5  | 4 videos + 10 posts X,Instagram, TikTok          |  1,5b Qubic    |
+| Month 6  | 4 videos + 10 posts X,Instagram, TikTok  1 music tracks | 1,5b Qubic    |
 
 ### Total Output (6 Months)
 X, Instagram, TikTok, YouTube, Telegram:
