@@ -54,7 +54,7 @@ I see that this is yielding good results, and it is time to increase our influen
 
 This proposal describes a three-month initiative to scale up the aNNa project to further increase production volumes, improve product quality, and expand QUBIC's presence on social platforms, including Russian ones. 
 
-I am requesting 2,3 billion Qubic tokens per month for 3 months to intensively develop the existing blog aNNa.
+I am requesting 1,4 billion Qubic tokens per month to intensively develop the existing blog aNNa.
 This grant allows us to devote all our time to our work, improve product quality, and acquire the distribution tools necessary to reach a wide crypto audience.
 
 ---
@@ -185,7 +185,7 @@ NFT and gamification:
 - **10% lifestyle content:** Сreating a lively, interesting digital blogger persona
 ### Topics Covered
 - How-to guides: Wallet setup, exchange walkthroughs, Qubic mining
-- Technical explainers: Aigarth, ANNA, the Quorum, feeless transactions
+- Technical explainers: Aigarth, aNNa, the Quorum, feeless transactions
 - Qubic news and market updates
 - Visionary and speculative content: Future of Qubic, AGI implications
 - Share lifestyle content on social media, creating a lively, interesting digital blogger persona.
